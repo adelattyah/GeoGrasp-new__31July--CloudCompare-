@@ -1,0 +1,17 @@
+# ninja log v5
+5	10372	1691575354894906672	CMakeFiles/cloud_processor.dir/src/cloud_processor.cpp.o	fd3fd215169a8960
+4	6048	1690932501687726953	CMakeFiles/cloud_processor.dir/src/CompareClouds.cpp.o	1495ff628eba6abe
+6	12763	1691468567168423019	CMakeFiles/cloud_processor.dir/src/CompareClouds_2.cpp.o	b1e346b8794801e9
+10500	10578	1690834754203758012	libGeoGrasp.a	e8dd46b74b71f00
+1	551	1691582319607466505	build.ninja	caabfcfa9ce66de4
+0	10500	1690834754131736235	CMakeFiles/GeoGrasp.dir/lib/geograsp/GeoGrasp.cpp.o	e201ea443a60970a
+4	4354	1691572994235615583	CMakeFiles/cloud_processor.dir/src/fromMeshtoPointCloud.cpp.o	f4ef8e3695ae6d40
+10372	14953	1691575359474875773	cloud_processor	447a0ddb9c2eca71
+4	10248	1691585482134944454	CMakeFiles/cloud_processor.dir/src/cloud_processor.cpp.o	fd3fd215169a8960
+10248	14933	1691585486818823268	cloud_processor	447a0ddb9c2eca71
+7	9923	1691585859656945617	CMakeFiles/cloud_processor.dir/src/cloud_processor.cpp.o	fd3fd215169a8960
+9923	12769	1691585862500868902	cloud_processor	447a0ddb9c2eca71
+4	9952	1691585991137383502	CMakeFiles/cloud_processor.dir/src/cloud_processor.cpp.o	fd3fd215169a8960
+9953	12765	1691585993949307005	cloud_processor	447a0ddb9c2eca71
+4	10112	1691586203699570926	CMakeFiles/cloud_processor.dir/src/cloud_processor.cpp.o	fd3fd215169a8960
+10113	12784	1691586206367497636	cloud_processor	447a0ddb9c2eca71

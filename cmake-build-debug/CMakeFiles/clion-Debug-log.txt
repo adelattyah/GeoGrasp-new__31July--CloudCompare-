@@ -1,0 +1,53 @@
+/snap/clion/248/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/248/bin/ninja/linux/x64/ninja -G Ninja -S "/home/adelelakour/CLionProjects/GeoGrasp-new__full/GeoGrasp-new__31July (CloudCompare)" -B "/home/adelelakour/CLionProjects/GeoGrasp-new__full/GeoGrasp-new__31July (CloudCompare)/cmake-build-debug"
+-- Eigen found (include: /usr/include/eigen3, version: 3.3.4)
+-- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so  found components: OpenGL GLX 
+-- Could NOT find Pcap (missing: PCAP_LIBRARIES PCAP_INCLUDE_DIRS) 
+** WARNING ** io features related to pcap will be disabled
+-- Eigen found (include: /usr/include/eigen3, version: 3.3.4)
+-- QHULL found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libqhull_r.so)
+-- looking for PCL_COMMON
+-- looking for PCL_KDTREE
+-- looking for PCL_OCTREE
+-- looking for PCL_SEARCH
+-- looking for PCL_SAMPLE_CONSENSUS
+-- looking for PCL_FILTERS
+-- looking for PCL_2D
+-- looking for PCL_GEOMETRY
+-- looking for PCL_IO
+-- looking for PCL_FEATURES
+-- looking for PCL_ML
+-- looking for PCL_SEGMENTATION
+-- looking for PCL_VISUALIZATION
+-- looking for PCL_SURFACE
+-- looking for PCL_REGISTRATION
+-- looking for PCL_KEYPOINTS
+-- looking for PCL_TRACKING
+-- looking for PCL_RECOGNITION
+-- looking for PCL_STEREO
+-- looking for PCL_OUTOFCORE
+-- looking for PCL_PEOPLE
+CMake Warning (dev) at /snap/clion/248/bin/cmake/linux/x64/share/cmake-3.26/Modules/FindOpenGL.cmake:315 (message):
+  Policy CMP0072 is not set: FindOpenGL prefers GLVND by default when
+  available.  Run "cmake --help-policy CMP0072" for policy details.  Use the
+  cmake_policy command to set the policy and suppress this warning.
+
+  FindOpenGL found both a legacy GL library:
+
+    OPENGL_gl_LIBRARY: /usr/lib/x86_64-linux-gnu/libGL.so
+
+  and GLVND libraries for OpenGL and GLX:
+
+    OPENGL_opengl_LIBRARY: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+    OPENGL_glx_LIBRARY: /usr/lib/x86_64-linux-gnu/libGLX.so
+
+  OpenGL_GL_PREFERENCE has not been set to "GLVND" or "LEGACY", so for
+  compatibility with CMake 3.10 and below the legacy GL library will be used.
+Call Stack (most recent call first):
+  CMakeLists.txt:7 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/adelelakour/CLionProjects/GeoGrasp-new__full/GeoGrasp-new__31July (CloudCompare)/cmake-build-debug

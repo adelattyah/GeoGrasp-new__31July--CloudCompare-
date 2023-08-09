@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="geograsp" targetName="cloud_processor" />
+      <config projectName="geograsp" targetName="GeoGrasp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6678f103-584e-4f49-8da5-975960e00813" name="Changes" comment="I've added (cloudcompare.cpp) file but still need to add labels to each cloud.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-376aa6e780ccf030d340.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-398fb8ff10259fa3fc65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-07-31T00-19-30-0123.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-cloud_processor-Debug-28a24ff228128257452f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/002_master_chef_can.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/003_cracker_box.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/004_sugar_box.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/005_tomato_soup_can.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/006_mustard_bottle.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/007_tuna_fish_can.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/008_pudding_box.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/009_gelatin_box.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/010_potted_meat_can.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/YCB_PCD_Files/013_apple.pcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompareClouds.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cloud_processor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/cloud_processor.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adelelakour&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="51a2fe26-4109-4bf8-8668-109ecf233d48" />
+        <option name="url" value="https://github.com/adelelakour/geograsp.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.5" />
+  </component>
+  <component name="ProjectId" id="2Sq9P0HHWQGpFHdl1aVlS6QtNdg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/adelelakour/CLionProjects/GeoGrasp-new__full/GeoGrasp-new__31July (CloudCompare)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.cloud_processor">
+    <configuration name="GeoGrasp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="geograsp" TARGET_NAME="GeoGrasp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cloud_processor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="geograsp" TARGET_NAME="cloud_processor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="geograsp" RUN_TARGET_NAME="cloud_processor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.cloud_processor" />
+      <item itemvalue="CMake Application.GeoGrasp" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6678f103-584e-4f49-8da5-975960e00813" name="Changes" comment="" />
+      <created>1689863215430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689863215430</updated>
+      <workItem from="1689863216528" duration="78000" />
+      <workItem from="1689863308096" duration="873000" />
+      <workItem from="1689868684223" duration="8141000" />
+      <workItem from="1689937220083" duration="10829000" />
+      <workItem from="1689980165004" duration="9575000" />
+      <workItem from="1690040429241" duration="7799000" />
+      <workItem from="1690059986766" duration="2948000" />
+      <workItem from="1690762769053" duration="624000" />
+      <workItem from="1690763517478" duration="1000" />
+      <workItem from="1690834727934" duration="4161000" />
+      <workItem from="1690880771283" duration="3031000" />
+      <workItem from="1690916572064" duration="5215000" />
+      <workItem from="1691357018730" duration="920000" />
+      <workItem from="1691367567050" duration="3909000" />
+      <workItem from="1691382246350" duration="8460000" />
+      <workItem from="1691457720696" duration="10296000" />
+      <workItem from="1691539401701" duration="2114000" />
+      <workItem from="1691546498398" duration="15000" />
+      <workItem from="1691566439313" duration="144000" />
+      <workItem from="1691566641834" duration="1910000" />
+      <workItem from="1691572452319" duration="4417000" />
+      <workItem from="1691582318407" duration="16000" />
+      <workItem from="1691583318111" duration="1609000" />
+    </task>
+    <task id="LOCAL-00001" summary="I've added (cloudcompare.cpp) file but still need to add labels to each cloud.">
+      <option name="closed" value="true" />
+      <created>1690763121003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690763121003</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I've added (cloudcompare.cpp) file but still need to add labels to each cloud.">
+      <option name="closed" value="true" />
+      <created>1690763235863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690763235863</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I've added (cloudcompare.cpp) file but still need to add labels to each cloud.">
+      <option name="closed" value="true" />
+      <created>1690763297588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690763297588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I've added (cloudcompare.cpp) file but still need to add labels to each cloud." />
+    <option name="LAST_COMMIT_MESSAGE" value="I've added (cloudcompare.cpp) file but still need to add labels to each cloud." />
+  </component>
+</project>
